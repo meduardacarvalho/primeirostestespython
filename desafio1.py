@@ -1,0 +1,10 @@
+nome = input("qual seu nome")
+print("seja bem vindo" , nome) 
+dia = input("dia: ")
+mes = input("mes: " )
+ano = input("ano: " )
+print(dia, "/" , mes , "/", ano)
+num1 = int(input("num1: "))
+num2 = input(("num2:"))
+num3 = num1+num2
+print(num3) 
